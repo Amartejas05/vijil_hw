@@ -1,0 +1,4 @@
+Benchmark Analysis:
+Average Tokens: 500
+Median Latency: 0.012949109077453613
+Tokens Per Second: 39520.66062749813
