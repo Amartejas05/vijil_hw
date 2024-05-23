@@ -15,6 +15,12 @@ Start the dummy API server:
 make run-server
 ```
 
+## Run the benchmark script
+
+```
+python benchmark.py
+```
+
 ## Analysis output
 
-You can find the analysis in a benchmark_report.txt file and also a benchmark_chart for visulization. 
+You can find the analysis in a benchmark_report.txt file and also a benchmark_chart for visualization. 
